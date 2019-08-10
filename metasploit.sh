@@ -1,5 +1,5 @@
-#!/bin/bash/sh
-#!copyright anubhab
+##METASPLOIT-IN-TERMUX BY ANUBHAB
+##copyright anubhab
 
 apt-get update -y
 apt-get upgrade -y
